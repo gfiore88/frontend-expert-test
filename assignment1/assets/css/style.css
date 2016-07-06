@@ -1,0 +1,37 @@
+/*
+Giovanni Fiore - www.giovannifiore.net
+*/
+/* 
+    Created on : 6-lug-2016, 10.47.00
+    Author     : giovannifiore
+*/
+
+
+.map_canvas {
+    border-top:50px solid #fff;
+    border-bottom:20px solid #fff;
+    height:400px;
+    padding:10px;
+    border:1px solid #5cb85c;
+}
+
+.bottom5 { margin-bottom:5px; }
+.bottom10 { margin-bottom:10px; }
+.bottom20 { margin-bottom:20px; }
+
+.panel-heading{
+    height:70px;
+}
+
+.panel-body img{
+    border:1px solid #5cb85c;
+    border-radius:3px;
+}
+
+.clear{
+    clear:both;
+}
+
+.tooltip-arrow,
+.green-tooltip + .tooltip > .tooltip-inner {background-color: #5cb85c;}
+
